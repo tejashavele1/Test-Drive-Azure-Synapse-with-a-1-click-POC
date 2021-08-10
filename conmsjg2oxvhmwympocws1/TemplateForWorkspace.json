@@ -327,7 +327,7 @@
 					},
 					"SQLDedicatedPoolName": {
 						"type": "string",
-						"defaultValue": "conmsjg2oxvhmwympocws1"
+						"defaultValue": "conmsjg2oxvhmwympocws1p1"
 					},
 					"SQLLoginUsername": {
 						"type": "string",
